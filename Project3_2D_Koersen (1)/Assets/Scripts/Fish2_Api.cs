@@ -7,7 +7,7 @@ using SimpleJSON;
 public class Fish2_Api : MonoBehaviour
 {
 
-    public const string URL = "api.openweathermap.org/data/2.5/weather?id=2759794&units=metric&appid="+API_KEY; // verander locatie
+    public const string URL = "api.openweathermap.org/data/2.5/weather?id=2643743&units=metric&appid="+API_KEY; // verander locatie
     private const string API_KEY = "9d555c538ff33e5450ae1575097d7b97";
     public Text responseText;
 
