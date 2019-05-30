@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Pickupable
+  - Checkpoint
+  - Checkpoint1
+  - Checkpoint2
+  - Checkpoint3
+  - Gate2
+  - Gate3
+  - Gate1
+  - Gate4
+  - Gate5
+  - Gate6
+  - Gate7
+  - Gate8
+  - Gate9
+  - Gate10
+  - Gate11
+  - Gate12
+  - Gate13
+  - Gate14
+  - Gate15
+  - Gate16
+  - Gate17
+  - Gate18
+  - Gate19
+  - HealthObject
+  - Enemy
+  - SpawnPoint
+  - Shredder
+  - Beam
+  - AIPoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Pickupable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
